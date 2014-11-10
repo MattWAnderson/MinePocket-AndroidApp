@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- blue theme -->
+	<style name="Theme.WebViewApp.Blue" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Blue</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Blue</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_blue</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_blue</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_blue</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_blue</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Blue</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Blue</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_blue</item>
+	</style>
+
+
+	<!-- gray theme -->
+	<style name="Theme.WebViewApp.Gray" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Gray</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Gray</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_gray</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_gray</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_gray</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_gray</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Gray</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Gray</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_gray</item>
+	</style>
+
+
+	<!-- green theme -->
+	<style name="Theme.WebViewApp.Green" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Green</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Green</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_green</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_green</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_green</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_green</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Green</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Green</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_green</item>
+	</style>
+
+
+	<!-- orange theme -->
+	<style name="Theme.WebViewApp.Orange" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Orange</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Orange</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_orange</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_orange</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_orange</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_orange</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Orange</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Orange</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_orange</item>
+	</style>
+
+
+	<!-- red theme -->
+	<style name="Theme.WebViewApp.Red" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Red</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Red</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_red</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_red</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_red</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_red</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Red</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Red</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_red</item>
+	</style>
+
+
+	<!-- violet theme -->
+	<style name="Theme.WebViewApp.Violet" parent="@style/Theme.WebViewApp">
+		<!-- action bar style -->
+		<item name="actionBarStyle">@style/WebViewApp.ActionBar.Violet</item>
+		<item name="android:actionBarStyle">@style/WebViewApp.ActionBar.Violet</item>
+
+		<!-- action bar item background -->
+		<item name="actionBarItemBackground">@drawable/selector_ab_item_bg_violet</item>
+		<item name="android:actionBarItemBackground">@drawable/selector_ab_item_bg_violet</item>
+
+		<!-- action bar popup menu item background -->
+		<!-- <item name="itemBackground">@drawable/selector_ab_item_bg_violet</item> --><!-- for Theme.Sherlock -->
+		<item name="android:itemBackground">@drawable/selector_ab_item_bg_violet</item>
+
+		<!-- action bar button style -->
+		<item name="actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Violet</item>
+		<item name="android:actionButtonStyle">@style/WebViewApp.ActionBar.ActionButton.Violet</item>
+
+		<!-- navigation drawer item background -->
+		<item name="drawerBackground">@drawable/selector_drawer_item_bg_violet</item>
+	</style>
+
+
+	<!-- blue action bar style -->
+	<style name="WebViewApp.ActionBar.Blue" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_blue</item>
+		<item name="android:background">@drawable/ab_bg_normal_blue</item>
+	</style>
+
+
+	<!-- gray action bar style -->
+	<style name="WebViewApp.ActionBar.Gray" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_gray</item>
+		<item name="android:background">@drawable/ab_bg_normal_gray</item>
+	</style>
+
+	<!-- green action bar style -->
+	<style name="WebViewApp.ActionBar.Green" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_green</item>
+		<item name="android:background">@drawable/ab_bg_normal_green</item>
+	</style>
+
+
+	<!-- orange action bar style -->
+	<style name="WebViewApp.ActionBar.Orange" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_orange</item>
+		<item name="android:background">@drawable/ab_bg_normal_orange</item>
+	</style>
+
+
+	<!-- red action bar style -->
+	<style name="WebViewApp.ActionBar.Red" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_red</item>
+		<item name="android:background">@drawable/ab_bg_normal_red</item>
+	</style>
+
+
+	<!-- violet action bar style -->
+	<style name="WebViewApp.ActionBar.Violet" parent="@style/WebViewApp.ActionBar">
+		<!-- action bar background -->
+		<item name="background">@drawable/ab_bg_normal_violet</item>
+		<item name="android:background">@drawable/ab_bg_normal_violet</item>
+	</style>
+
+
+	<!-- blue action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Blue" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_blue</item>
+	</style>
+
+
+	<!-- gray action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Gray" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_gray</item>
+	</style>
+
+
+	<!-- green action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Green" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_green</item>
+	</style>
+
+
+	<!-- orange action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Orange" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_orange</item>
+	</style>
+
+
+	<!-- red action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Red" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_red</item>
+	</style>
+
+
+	<!-- violet action bar button style -->
+	<style name="WebViewApp.ActionBar.ActionButton.Violet" parent="@style/WebViewApp.ActionBar.ActionButton">
+		<item name="android:background">@drawable/selector_ab_item_bg_violet</item>
+	</style>
+
+</resources>

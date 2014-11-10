@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--
+	This is a configuration file for navigation menu. You can add/remove/modify menu items as you need.
+	Important: each of these 4 arrays below must contain the same number of items.
+	-->
+
+	<!-- List of titles in navigation drawer menu -->
+	<string-array name="navigation_title_list">
+		<item>Home</item>
+		<item>Staff Members</item>
+		<item>Your Inbox</item>
+		<item>Donate</item>
+		<item>FAQs</item>
+
+	</string-array>
+
+	<!--
+	List of webview URLs. You can specify URL link to a web page on the Internet or
+	URL link to a local page stored in assets directory. Local page does not require Internet connection.
+	URL to the local page must be in this format: file:///android_asset/example.html
+	-->
+	<string-array name="navigation_url_list">
+		<item>https://MinePocket.com</item>
+		<item>https://minepocket.com/members/?type=staff</item>
+		<item>https://minepocket.com/conversations/</item>
+		<item>https://minepocket.com/donate/</item>
+		<item>https://minepocket.com/faq/</item>
+
+	</string-array>
+
+	<!-- List of icons in navigation drawer menu -->
+	<string-array name="navigation_icon_list">
+		<item>@drawable/ic_drawer_home</item>
+		<item>@drawable/ic_drawer_about</item>
+		<item>@drawable/ic_drawer_references</item>
+		<item>@drawable/ic_drawer_products</item>
+		<item>@drawable/ic_drawer_about</item>
+
+	</string-array>
+
+
+	<string-array name="navigation_share_list">
+		<item></item>
+		<item>See this link https://MinePocket.com</item>
+		<item>See this link https://MinePocket.com</item>
+		<item>See this link https://MinePocket.com</item>
+		<item>See this link https://MinePocket.com</item>
+
+	</string-array>
+</resources>

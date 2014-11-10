@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="global_text_primary">#222</color>
+	<color name="global_text_secondary">#888</color>
+	<color name="global_text_primary_inverse">#fff</color>
+	<color name="global_text_secondary_inverse">#aaa</color>
+	<color name="global_text_accent_blue">#33b5e5</color>
+	<color name="global_text_accent_gray">#666666</color>
+	<color name="global_text_accent_green">#99cc00</color>
+	<color name="global_text_accent_orange">#ffbb33</color>
+	<color name="global_text_accent_red">#dd2222</color>
+	<color name="global_text_accent_violet">#883388</color>
+
+	<color name="global_bg_back">#eee</color>
+	<color name="global_bg_front">#fff</color>
+	<color name="global_bg_dialog">#f5f5f5</color>
+	<color name="global_bg_back_inverse">#111</color>
+	<color name="global_bg_front_inverse">#222</color>
+	<color name="global_bg_dialog_inverse">#282828</color>
+	
+	<color name="ab_title_text">#fff</color>
+	<color name="ab_subtitle_text">#eee</color>
+	<color name="ab_button_text">#fff</color>
+	<color name="ab_popup_text">#fff</color>
+	<color name="ab_popup_divider">#444</color>
+	<color name="ab_dropdown_text">#fff</color>
+	<color name="ab_dropdown_selected_text">#fff</color>
+	<color name="ab_tab_text">#fff</color>
+	<color name="ab_item_bg_pressed_blue">#cc33b5e5</color>
+	<color name="ab_item_bg_pressed_gray">#cc666666</color>
+	<color name="ab_item_bg_pressed_green">#cc99cc00</color>
+	<color name="ab_item_bg_pressed_orange">#ccffbb33</color>
+	<color name="ab_item_bg_pressed_red">#ccdd2222</color>
+	<color name="ab_item_bg_pressed_violet">#cc883388</color>
+
+	<color name="drawer_bg">#fff</color>
+	<color name="drawer_item_divider">#ddd</color>
+	<color name="drawer_item_bg_pressed_blue">#cc33b5e5</color>
+	<color name="drawer_item_bg_pressed_gray">#cc666666</color>
+	<color name="drawer_item_bg_pressed_green">#cc99cc00</color>
+	<color name="drawer_item_bg_pressed_orange">#ccffbb33</color>
+	<color name="drawer_item_bg_pressed_red">#ccdd2222</color>
+	<color name="drawer_item_bg_pressed_violet">#cc883388</color>
+	<color name="drawer_item_bg_focused">#ccc</color>
+	<color name="drawer_item_bg_activated">#ccc</color>
+	
+	<color name="view_listview_divider">#ddd</color>
+	<color name="view_listview_cache_color_hint">#ddd</color>
+	<color name="view_listview_item_bg_normal">#fff</color>
+	<color name="view_listview_item_bg_pressed">#ddd</color>
+	<color name="view_listview_item_bg_focused">#ccc</color>
+	<color name="view_listview_item_bg_selected">#ccc</color>
+</resources>

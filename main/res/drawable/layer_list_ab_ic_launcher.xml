@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:drawable="@drawable/ab_ic_launcher" android:left="@dimen/ab_ic_launcher_padding" android:right="@dimen/ab_ic_launcher_padding" />
+</layer-list>
